@@ -1,13 +1,14 @@
 body {
   display: flex;
   margin-top: 20px;
+  background-color: rgb(8, 32, 86);
 }
 #izquierda {
   background-color: rgb(16, 31, 118);
   width: 250px;
   font-family: Times "Times New Roman", Times, serif;
   text-align: center;
-  color: white;
+  color: blanchedalmond;
 }
 #derecha {
   font-family: Times "Times New Roman", Times, serif;
@@ -15,6 +16,7 @@ body {
   text-align: left;
   margin-left: 50px;
   font-size: 18px;
+  color: blanchedalmond;
 }
 img {
   width: 100%;
